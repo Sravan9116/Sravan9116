@@ -199,3 +199,253 @@ I aspire to create intelligent technologies that improve transportation, healthc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
+
+
+<!-- ===================================================== -->
+<!--                  TECH STACK                           -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# ⚡ Tech Stack & Expertise
+
+*"Turning ideas into intelligent systems with modern technologies."*
+
+</div>
+
+---
+
+# 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql,bash" />
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+</div>
+
+### Expertise
+
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 📷 Computer Vision
+- 🎯 Object Detection
+- 🚘 YOLO-based Detection Systems
+- 🧠 Deep Learning
+- 📊 Data Analysis
+- 🔍 Image Processing
+- 📈 Model Training
+- 📡 Intelligent Automation
+
+---
+
+# 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
+
+</div>
+
+### Backend
+
+- REST APIs
+- Authentication
+- Express.js
+- Node.js
+- API Integration
+
+---
+
+# 🗄 Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,firebase,sqlite" />
+
+</div>
+
+Experience with
+
+- PostgreSQL
+- SQLite
+- Firebase
+- Database Design
+- SQL Optimization
+
+---
+
+# 🍓 Embedded Systems & IoT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+
+</div>
+
+Working with
+
+- Raspberry Pi
+- ESP32
+- Sensors
+- IoT Devices
+- Camera Modules
+- Automation
+- Edge AI
+
+---
+
+# ☁ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+
+</div>
+
+Experience with
+
+- AWS
+- Docker
+- Git
+- GitHub
+- Linux
+- Deployment
+
+---
+
+# 🛠 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,git" />
+
+</div>
+
+Also experienced with
+
+- DBeaver
+- Capacitor
+- Leaflet.js
+- OpenCV
+- YOLO
+- VS Code
+- Android Studio
+
+---
+
+# 🚀 Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Computer Vision | Machine Learning |
+|:-----------------------:|:---------------:|:----------------:|
+| 🤖 | 📷 | 🧠 |
+
+| Robotics | Embedded Systems | IoT |
+|:---------:|:----------------:|:---:|
+| 🤖 | 🍓 | 📡 |
+
+| Full Stack | Research | Innovation |
+|:----------:|:--------:|:----------:|
+| 🌐 | 🔬 | 💡 |
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sravan9116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravan9116&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sravan9116&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sravan9116&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravan9116&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Coding Journey
+
+```text
+Artificial Intelligence      █████████████████████░░   90%
+
+Computer Vision              ████████████████████░░   88%
+
+Machine Learning             ███████████████████░░░   85%
+
+Python                       █████████████████████░   90%
+
+Java                         ██████████████████░░░   80%
+
+Node.js                      █████████████████░░░░   75%
+
+Embedded Systems             ███████████████████░░   85%
+
+Full Stack Development       ██████████████████░░░   82%
+
+IoT                          █████████████████░░░░   78%
+```
+
+---
+
+# 💡 Current Learning Goals
+
+- 🚀 Advanced Deep Learning
+- 🎯 AI-powered Drone Navigation
+- 🛰 Autonomous Surveillance Systems
+- 🤖 Robotics using AI
+- 📡 Edge AI on Raspberry Pi
+- ☁ AI Deployment on Cloud
+- 🧠 Large Language Models
+- 🌍 Smart City Technologies
+
+---
+
+<div align="center">
+
+### ⚡ "Every project is an opportunity to learn, innovate, and create something meaningful."
+
+</div>
+
+---
