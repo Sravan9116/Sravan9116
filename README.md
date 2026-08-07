@@ -449,3 +449,290 @@ IoT                          █████████████████
 </div>
 
 ---
+
+
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+*"Turning ideas into intelligent real-world solutions through AI, Computer Vision, Robotics and Full Stack Development."*
+
+</div>
+
+---
+
+# 🚁 AI Drone Traffic Monitoring System
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=140&section=header&text=AI%20Drone%20Traffic%20Monitoring&fontColor=ffffff&fontSize=35"/>
+
+### 🧠 Overview
+
+An AI-powered autonomous drone system capable of monitoring traffic, detecting helmet violations, recognizing vehicle number plates, identifying emergency vehicles, and enabling automated e-challan generation.
+
+### ✨ Key Features
+
+- 🪖 Helmet Detection
+- 🚗 Vehicle Detection
+- 🔍 Automatic Number Plate Recognition (ANPR)
+- 🚑 Emergency Vehicle Detection
+- 📸 AI Camera Surveillance
+- 📊 Traffic Analytics Dashboard
+- ⚡ Real-Time Processing
+- ☁ Smart Monitoring
+
+### 🛠 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+![YOLO](https://img.shields.io/badge/YOLO-AI-blue?style=for-the-badge)
+
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi)
+
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-success?style=for-the-badge)
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 💧 Jal Jeevan AI
+
+### AI Powered Smart Water Pipeline Monitoring
+
+Intelligent IoT platform for monitoring water pipelines using sensors, leak detection algorithms and real-time dashboards.
+
+### Features
+
+- 💧 Leak Detection
+- 📡 IoT Sensors
+- 🗺 GIS Visualization
+- 📈 Live Dashboard
+- ⚡ Smart Alerts
+- 🌐 Web Platform
+
+### Technologies
+
+Node.js
+
+Express
+
+PostgreSQL
+
+Leaflet.js
+
+ESP32
+
+IoT
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 🏢 LiftPro
+
+### Smart Elevator Management Platform
+
+Enterprise-style elevator management application.
+
+### Features
+
+✔ Complaint Management
+
+✔ Installation Tracking
+
+✔ Maintenance Scheduling
+
+✔ Technician Dashboard
+
+✔ Admin Portal
+
+✔ User Dashboard
+
+✔ Analytics
+
+### Technologies
+
+Node.js
+
+Express
+
+PostgreSQL
+
+HTML
+
+CSS
+
+JavaScript
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 🎓 IKS Portal
+
+### Indian Knowledge Systems Club Platform
+
+Digital platform for club management and student engagement.
+
+### Features
+
+📢 Events
+
+📷 Gallery
+
+📝 Posts
+
+✅ Admin Approval
+
+📚 Club Activities
+
+Responsive UI
+
+### Technologies
+
+Node.js
+
+PostgreSQL
+
+JavaScript
+
+HTML
+
+CSS
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 📱 Village Documentation App
+
+LiveInLabs Project
+
+Offline-first Android application.
+
+### Features
+
+📍 GPS
+
+📸 Media Collection
+
+🗂 Offline Storage
+
+📱 Capacitor
+
+SQLite
+
+Field Survey
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 🍓 Raspberry Pi Camera Integration
+
+Computer Vision system using Raspberry Pi with smartphone camera integration.
+
+### Features
+
+📷 Camera Streaming
+
+🧠 AI Processing
+
+🎯 Object Detection
+
+⚡ Image Processing
+
+OpenCV Integration
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 🌍 Bharat Climate Twin
+
+AI Powered Digital Twin for Climate Intelligence.
+
+### Features
+
+🌍 Climate Analytics
+
+🛰 GIS Visualization
+
+🤖 AI Prediction
+
+📊 Environmental Dashboard
+
+🗺 PostGIS Mapping
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 🤖 Machine Learning Projects
+
+A collection of AI and Machine Learning experiments.
+
+### Topics
+
+🧠 Neural Networks
+
+📷 Object Detection
+
+🎯 Localization
+
+📊 Regression
+
+📈 Classification
+
+CNN
+
+Backpropagation
+
+YOLO
+
+OpenCV
+
+TensorFlow
+
+PyTorch
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+<div align="center">
+
+# 🚀 More Projects Coming Soon...
+
+*"Every repository represents another step toward building intelligent technology."*
+
+</div>
+
+---
+
+## 💡 Project Philosophy
+
+> I enjoy building solutions that bridge the gap between software intelligence and real-world applications. My work combines AI, embedded systems, cloud technologies, and full-stack development to solve practical problems.
+
+---
