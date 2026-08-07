@@ -736,3 +736,209 @@ PyTorch
 > I enjoy building solutions that bridge the gap between software intelligence and real-world applications. My work combines AI, embedded systems, cloud technologies, and full-stack development to solve practical problems.
 
 ---
+
+<!-- ===================================================== -->
+<!--      EDUCATION • LEADERSHIP • RESEARCH • GOALS        -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🎓 My Journey
+
+*"Every great innovation starts with curiosity and continuous learning."*
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+| 🎓 Qualification | 🏫 Institution | 📍 Status |
+|:----------------:|:--------------|:---------:|
+| **B.Tech Computer Science Engineering** | **Amrita Vishwa Vidyapeetham, Nagercoil Campus** | **3rd Year • 5th Semester** |
+
+</div>
+
+---
+
+# 🚀 Learning Journey
+
+```text
+Started Programming
+        │
+        ▼
+C Programming & Problem Solving
+        │
+        ▼
+Web Development
+        │
+        ▼
+Backend Development
+        │
+        ▼
+Database Design
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Artificial Intelligence
+        │
+        ▼
+Computer Vision
+        │
+        ▼
+Embedded Systems
+        │
+        ▼
+IoT & Raspberry Pi
+        │
+        ▼
+Drone Technology
+        │
+        ▼
+Research & Innovation
+```
+
+---
+
+# 🌟 Leadership & Campus Involvement
+
+### 🎯 Student Leadership
+
+- Active participant in technical and innovation activities.
+- Contributed to student-driven software and AI projects.
+- Worked on collaborative engineering projects with multidisciplinary teams.
+
+### 🎓 Club Activities
+
+- Contributed to the **IKS (Indian Knowledge Systems)** platform and related activities.
+- Participated in university technical events and innovation initiatives.
+
+---
+
+# 🔬 Research Interests
+
+<div align="center">
+
+| Area | Focus |
+|:----:|:------|
+| 🤖 Artificial Intelligence | Intelligent Decision Systems |
+| 📷 Computer Vision | Object Detection & Recognition |
+| 🚁 Drone Technology | Smart Autonomous Monitoring |
+| 🍓 Embedded Systems | Raspberry Pi & Edge AI |
+| 📡 IoT | Smart Connected Devices |
+| 🌍 Smart Cities | AI-driven Public Infrastructure |
+| 🛰 Remote Sensing | Vision-based Monitoring |
+| 🧠 Deep Learning | Advanced Neural Networks |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+I am currently exploring and building projects in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📷 Computer Vision
+- 🚁 Intelligent Drone Systems
+- 🍓 Raspberry Pi
+- 📡 IoT Solutions
+- 🌐 Full Stack Development
+- ☁ Cloud Integration
+
+---
+
+# 💡 Engineering Philosophy
+
+> "Technology becomes meaningful when it solves real-world problems."
+
+I enjoy building systems that combine software, AI, and hardware to create practical, intelligent solutions.
+
+---
+
+# 🛣 Roadmap
+
+### 📍 Current Stage
+
+- 🎓 Complete B.Tech in Computer Science Engineering
+- 🚀 Build advanced AI and Computer Vision projects
+- 📚 Strengthen research and development skills
+
+### 🚀 Next Goals
+
+- 🤖 Develop large-scale AI applications
+- 🚁 Advance autonomous drone technologies
+- 🌍 Contribute to open-source AI projects
+- 📄 Publish technical work and research
+- 💼 Build industry-ready intelligent systems
+
+---
+
+# 📚 Currently Exploring
+
+- 🧠 Deep Learning Architectures
+- 🎯 YOLO Object Detection
+- 📷 Vision AI
+- 🤖 Edge AI
+- ☁ Cloud-based AI Deployment
+- 🛰 Autonomous Systems
+
+---
+
+# 🏆 Personal Values
+
+- 💡 Continuous Learning
+- 🤝 Collaboration
+- 🚀 Innovation
+- 🎯 Problem Solving
+- 📚 Knowledge Sharing
+- 🌍 Building Technology with Impact
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Build production-quality AI applications
+- ✅ Expand my open-source portfolio
+- ✅ Improve expertise in Computer Vision
+- ✅ Develop advanced Embedded AI systems
+- ✅ Create impactful research-oriented projects
+
+---
+
+# 🌌 Beyond Coding
+
+Outside of development, I enjoy exploring emerging technologies, experimenting with AI ideas, learning about robotics, and transforming concepts into working prototypes.
+
+---
+
+<div align="center">
+
+## ⭐ Favorite Quote
+
+*"The future belongs to those who build it."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravan9116&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Learning Never Stops. Innovation Never Sleeps."
+
+</div>
+
+---
