@@ -942,3 +942,146 @@ Outside of development, I enjoy exploring emerging technologies, experimenting w
 </div>
 
 ---
+
+
+<!-- ===================================================== -->
+<!--          CONTACT • CONTRIBUTIONS • FOOTER             -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🤝 Let's Connect & Collaborate
+
+*"Great ideas become reality when passionate people work together."*
+
+</div>
+
+---
+
+## 💬 I'm Open To
+
+<div align="center">
+
+| 🚀 | Opportunities |
+|:--:|:-------------|
+| 🤖 | Artificial Intelligence Projects |
+| 📷 | Computer Vision Applications |
+| 🚁 | Drone Technology |
+| 🍓 | Raspberry Pi & Embedded Systems |
+| 📡 | IoT Solutions |
+| 🌐 | Full Stack Development |
+| 💡 | Research Collaborations |
+| 🎓 | Student Innovation Projects |
+| 🌍 | Open Source Contributions |
+
+</div>
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+<a href="https://github.com/Sravan9116">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌍 My Mission
+
+> Build intelligent technologies that bridge the gap between software and the real world.
+
+I believe AI should create practical impact in transportation, education, healthcare, smart cities, robotics, and embedded systems.
+
+---
+
+# 📊 GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Sravan9116/Sravan9116/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> **Note:** This animation requires a GitHub Action to generate it automatically. It won't appear until that workflow is configured.
+
+---
+
+# 📈 Profile Summary
+
+```text
+🎓 B.Tech Computer Science Engineering
+🏫 Amrita Vishwa Vidyapeetham, Nagercoil
+
+🤖 AI Enthusiast
+📷 Computer Vision Developer
+🚁 Drone Technology Explorer
+🍓 Raspberry Pi Developer
+📡 IoT Builder
+🌐 Full Stack Developer
+
+🚀 Passionate about building intelligent systems.
+```
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"Innovation begins where curiosity meets action."**
+
+</div>
+
+---
+
+# 🌟 Thanks for Visiting
+
+<div align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Follow my GitHub journey
+
+💬 Feel free to connect and collaborate
+
+🚀 Let's build impactful technology together.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer"/>
+
+</div>
+
+<div align="center">
+
+### ⭐ Thank You for Visiting My GitHub Profile ⭐
+
+**Happy Coding! 🚀**
+
+</div>
